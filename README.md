@@ -8,3 +8,5 @@ To run:
 
 Notes: 
   a. If you name the new file the same as an old one, it will overwrite it. 
+  b. If you use this repository in your research, please cite as: 
+    H. I. Garland, ldf2root, GitHub, https://github.com/GARLHE02/ldf2root.git (2024)
