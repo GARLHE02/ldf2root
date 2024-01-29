@@ -1,5 +1,5 @@
 # ldf2root
-A simple script that takes the binary .ldf file and puts it into a ROOT tree. 
+A simple script that takes the binary .ldf file and puts it into a ROOT tree. I have included the Lemor documentation for an .ldf file for convenience. 
 
 To run: 
   1. Open ROOT
