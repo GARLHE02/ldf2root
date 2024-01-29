@@ -7,6 +7,6 @@ To run:
   3. [1] ReadAnalogData("/path/to/file_to_read.ldf","newfilename.root")
 
 Notes: 
-  a. If you name the new file the same as an old one, it will overwrite it. 
-  b. If you use this repository in your research, please cite as: 
+  1. If you name the new file the same as an old one, it will overwrite it. 
+  2. If you use this repository in your research, please cite as: 
     H. I. Garland, ldf2root, GitHub, https://github.com/GARLHE02/ldf2root.git (2024)
